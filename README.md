@@ -12,3 +12,7 @@ J'ai utilisé un jeu de données open data mis à disposition par le ministère 
 - le fichier vehicules_2021.csv qui regroupe des informations sur les véhicules impliqués dans les accidents : type de véhicule, point du choc,...
 
 Tous ces fichiers ainsi que le document de description des différentes variables sont donnés dans le repository
+
+## Visualisation du travail effectué
+
+Pour visualiser le travail effectué et les résultats obtenus, se rendre à l'adresse suivante : [https://nlejay.github.io/projets/PBI_accidents/](https://nlejay.github.io/projets/PBI_accidents/)
